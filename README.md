@@ -1,2 +1,4 @@
 # PREDICTION OF STOCK MOVEMENT _ USE OF RELEVANT OPTION TRADING STRATEGIES
- Overview of the Industry & Analysis on 3 companies by employing SPACE Analysis, BCG Matrix, Porter’s 5 forces, Blind-Spot Analysis Ratio analysis to identify companies’ moats, future trends and differentiation strategies. Further created an Index for the Pharma Industry with the help of data extracted from the Bloomberg Terminal. Then carried out the valuation of 3 chosen companies using FCFE FCFF(2 3 Stage growth models). Further carried out Regression analysis(Systematic Risk) used DOL, DFL and DTL to get Unsystematic risk. Found Implied Equity Risk Premium and calculated WACC for these companies
+Carried out Fundamental & Technical analysis to predict future stock
+movement. Designed appropriate trading strategies and calculated
+break-even price & payoffs for various situations
